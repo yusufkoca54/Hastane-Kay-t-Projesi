@@ -1,0 +1,5 @@
+3 tane modülden oluşan bir yönetim sistemi
+
+hasta
+sekreter
+doktor
